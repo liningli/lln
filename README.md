@@ -1,2 +1,5 @@
 # lln
-My online resum
+My online resume
+姓名：李丽宁，北京工业大学研究生在读
+北京工业大学双选会志愿者; 并获得优秀志愿者称号
+英语六级
